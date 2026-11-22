@@ -23,11 +23,11 @@ no meio da noite, tudo espalhado. O aluno se perde e o professor não sabe quem 
 
 | | |
 |---|---|
-| 👩‍🏫 **Professor** | publica trilhas, aulas, materiais e quizzes, e responde as dúvidas no contexto da aula |
-| 🎓 **Aluno assinante** | assiste, pratica, tira dúvida e acompanha o próprio progresso |
-| 🛠️ **Administrador** | acompanha usuários, pagamentos, auditoria e a saúde da plataforma |
+| **Professor** | publica trilhas, aulas, materiais e quizzes, e responde as dúvidas no contexto da aula |
+| **Aluno assinante** | assiste, pratica, tira dúvida e acompanha o próprio progresso |
+| **Administrador** | acompanha usuários, pagamentos, auditoria e a saúde da plataforma |
 
-## 📸 Telas
+## Telas
 
 <p align="center">
   <img src="midia/tela-inicio.png" width="100%" alt="Página inicial do MathHub" />
@@ -52,7 +52,7 @@ no meio da noite, tudo espalhado. O aluno se perde e o professor não sabe quem 
 
 **Para vender**
 - Assinatura mensal com cancelamento simples
-- Pagamento com Mercado Pago e confirmação automática
+- Integração de pagamento com Mercado Pago e webhooks
 - Página de planos, perguntas frequentes e e-mails automáticos
 
 **Para operar**
@@ -69,7 +69,7 @@ Login com sessão segura, controle de acesso por perfil, limite de tentativas e 
 ---
 
 <p align="center">
-  🔒 <b>Código privado.</b> O MathHub é um produto comercial; este repositório é só a vitrine.<br/>
+  <b>Código privado.</b> O MathHub é um produto comercial; este repositório é só a vitrine.<br/>
   Quer ver por dentro, contratar ou levar para a sua escola? <a href="https://www.linkedin.com/in/yuri-medeiros-1071533b4/"><b>Fale comigo no LinkedIn</b></a>.
 </p>
 
